@@ -12,7 +12,6 @@ package manejocadenas;
 public class Ejemplo021 {
     public static void main(String[] args) {
         String ciudad = "loJa";
-        // Se cambió ';' por ',' antes de ciudad.toUpperCase() y ciudad
         System.out.printf("%s\n", ciudad.toUpperCase());
         System.out.printf("%s\n", ciudad);
     }
