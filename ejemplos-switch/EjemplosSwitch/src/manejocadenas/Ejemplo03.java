@@ -45,3 +45,7 @@ public class Ejemplo03 {
         
     }
 }
+/* 
+ El string format me sirve para unir las ideas sin necesidad de usar el signo +
+u otros elementos para concetar lo que dice la consola.
+*/
